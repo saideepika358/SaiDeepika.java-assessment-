@@ -22,3 +22,4 @@
 22. Given an array of integers return the number of distinct absolute values among the elements of the array absolute of any value is defined as its positive equivalent ABS(-5)=505 MATHEMATICALLY |-5|=|5|=1
 23. GIVEN AN ARRAY OF INTEGERS AND AN INTEGER TARGET PRINT INDIES OF THE TWO numbers such that the numbers add up to target you may assume that each input would have exactly one solution and you may not the use element twice you must print the answer indices in ascending order info such pair exits return [-1,1]
 24. Java code for you are given N string of length M count the number of anagramic groups .
+25. Write a SQL queue for creating a students table which has roll no, name, age, date of birth, email ID, phone number and address and the primary keys are students ID, name, email ID and phone number should not be null and insert any three records into the table
